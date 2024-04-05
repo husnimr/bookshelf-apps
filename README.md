@@ -1,3 +1,5 @@
+![image](https://github.com/husnimr/bookshelf-apps/assets/118866154/f739b023-5dbb-4cd9-a171-8db9ac48a14d)
+
 **Kriteria 1: Mampu Menambahkan Data Buku**
 Bookshelf Apps harus mampu menambahkan data buku baru.
 
