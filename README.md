@@ -4,7 +4,8 @@
 Bookshelf Apps harus mampu menambahkan data buku baru.
 
 Data buku yang disimpan merupakan objek JavaScript dengan struktur berikut:
-{
+
+<code>{
   id: string | number,
   title: string,
   author: string,
@@ -20,6 +21,8 @@ Berikut contoh data riilnya:
   year: 1997,
   isComplete: false,
 }
+</code>
+
 Catatan:
 Untuk id buku pada tiap buku yang disimpan haruslah unik. Tips dalam menetapkan nilai untuk adalah Anda bisa memanfaatkan nilai timestamp. Untuk mendapatkan nilai timestamp di JavaScript cukup mudah, cukup dengan menuliskan expressions +new Date().
 
